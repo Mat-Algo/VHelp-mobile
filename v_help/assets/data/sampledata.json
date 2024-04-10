@@ -1,0 +1,67 @@
+[
+  { "mess":"srrc",
+    "messtype":"Veg",
+    "name": "Daniel Wood",
+    "regno": "21BCE0084"
+  },
+  {
+    "mess": "srrc",
+    "messtype": "Non Veg",
+    "name": "Luna Ward",
+    "regno": "21BCE0085"
+  },
+  {
+    "mess": "srrc",
+    "messtype": "Special",
+    "name": "Sophia Baker",
+    "regno": "21BCE0086"
+  },
+  {
+    "mess": "zenith",
+    "messtype": "Veg",
+    "name": "William Martinez",
+    "regno": "21BCE0087"
+  },
+  {
+    "mess": "srrc",
+    "messtype": "Non Veg",
+    "name": "Ava Taylor",
+    "regno": "21BCE0088"
+  },
+  {
+    "mess": "zenith",
+    "messtype": "Veg",
+    "name": "Liam Nelson",
+    "regno": "21BCE0089"
+  },
+  {
+    "mess": "srrc",
+    "messtype": "Non Veg",
+    "name": "Mia Peterson",
+    "regno": "21BCE0090"
+  },
+  {
+    "mess": "zenith",
+    "messtype": "Veg",
+    "name": "Benjamin Cooper",
+    "regno": "21BCE0091"
+  },
+  {
+    "mess": "srrc",
+    "messtype": "Non Veg",
+    "name": "Evelyn Wright",
+    "regno": "21BCE0092"
+  },
+  {
+    "mess": "zenith",
+    "messtype": "Special",
+    "name": "Logan Hill",
+    "regno": "21BCE0093"
+  },
+  {
+    "mess": "srrc",
+    "messtype": "Veg",
+    "name": "Chloe Brooks",
+    "regno": "21BCE0094"
+  }
+]
